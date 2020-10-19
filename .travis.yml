@@ -1,7 +1,6 @@
 # Use Trusty as Emacs 26.x is failing on Xenial
 # https://github.com/rejeep/evm/issues/125
 dist: trusty
-
 language: generic
 sudo: false
 
